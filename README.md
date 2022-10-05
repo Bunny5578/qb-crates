@@ -15,3 +15,5 @@ start qb-crates
 * If you want the crate to be opened only once/server, you have to set `Config.OnePersonOpen` to `true` in `config.lua`. On `false`, each player can open the crate once.
 * If you want the crates to give dirty money instead of clean cash, you have to set `Config.IsMoneyDirtyMoney` to `true` in `config.lua`.
 
+## Credits
+https://github.com/KlibrDM/esx_treasure i converted it to qbcore
