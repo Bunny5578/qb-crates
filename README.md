@@ -10,6 +10,8 @@ Treasure crates with loot for QBCore FiveM servers. The crates can contain money
 * Add the following line to your server.cfg
 ```
 start qb-crates
+Or
+Ensure qb-crates
 ```
 
 * If you want the crate to be opened only once/server, you have to set `Config.OnePersonOpen` to `true` in `config.lua`. On `false`, each player can open the crate once.
